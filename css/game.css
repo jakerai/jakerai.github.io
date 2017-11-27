@@ -1,0 +1,72 @@
+/* CSS Document */
+.board {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.game-title {
+	text-align: left;
+}
+
+.subtitle {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+}
+
+.subtitle-text {
+	padding: 0px 0px 0px 0px;
+	margin: 0px 0px 7px 0px;
+	font-size: 14px;
+}
+
+.table {
+	border: 1px solid green;
+	padding: 5px 5px 5px 5px;
+	float: left;
+}
+
+.cell {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font-size: 80px;
+	-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+
+.click-title {
+	float: left;
+	margin-left: 60px;
+}
+
+.click-text {
+	margin-left: 500px;
+	margin-top: 50px;
+	font-size: 40px;
+	position: absolute;
+}
+
+.game-status {
+ 	position: absolute;
+	margin-left: 450px;
+	font-size: 30px;
+	margin-top: 130px;
+}
+
+.btn-restart {
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 200px;
+}
+
+.footer {
+  font-size: 15px;
+  float: right;	
+  position: absolute;
+  bottom: 0;
+  margin-left: 500px; 
+}
