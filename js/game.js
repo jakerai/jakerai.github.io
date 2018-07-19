@@ -15,7 +15,7 @@ board.className ="board";
 matchTable.className = "table";
 
 header.className = "game-title";
-header.textContent ="Match Game";
+header.textContent ="This site is under construction";
 
 info_header.textContent ="Rules";
 info_header.className = "subtitle";
